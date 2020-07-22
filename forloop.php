@@ -15,3 +15,18 @@ for($i=0;$i<=10;$i++){
     break;
     }
     }
+
+
+
+    
+    //     <?php
+ 
+
+//     $n = 5;
+//     $i;
+//    for($i = 1; $i <= 10; $i =$i++) {
+//        $sum =$n*$i;
+//        $output=sprintf("Namota is %s ,  %s",$n ,$sum);
+//        echo ($output);
+    
+//    }
