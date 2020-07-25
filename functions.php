@@ -21,3 +21,7 @@ function factorial( int $n){
     }
     return $result;
 }
+
+function serve($foodType,$numberOfItems){
+    echo"{$numberOfItems} of {$foodType} have been served";
+}
