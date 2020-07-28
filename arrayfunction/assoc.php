@@ -2,7 +2,7 @@
 $array1 = array(
     "a" => "green",
     "b" => "brown",
-    "c" => "blue", "red");
+     "c" => "blue", "red");
 
 $array2 = array("a" => "green", "yellow", "red");
 //$array2 = array("a" => "a", "a", "a");
