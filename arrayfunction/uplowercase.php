@@ -1,0 +1,8 @@
+<?php
+$input_array = array("FirSt" => 1, "SecOnd" => 4);
+print_r(array_change_key_case($input_array, CASE_UPPER));
+
+
+//lower
+$input=array("First"=>1,"Secont"=>4);
+print_r(array_change_key_case($input,CASE_LOWER));
